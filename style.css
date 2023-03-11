@@ -1,0 +1,62 @@
+img {
+    width: 351px;
+    aspect-ratio: auto 351 / 113;
+    height: 113px;
+    margin: auto;
+
+}
+
+.box{
+    border: 0px;
+    width: 90%;
+}
+
+.buton {
+    position: relative;
+    top: -2px;
+}
+
+.kutu {
+    position: relative;
+    top: -1px;
+}
+
+.yazi {
+    position: relative;
+    top: -1px;
+}
+
+.bolum1 {
+    width: 37%;
+    background-color: #7EE5DA;
+    text-align: center;
+    margin-right: 4px;
+    clear: left;
+}
+
+.bolum2 {
+    width: 23%;
+    background-color: #70CCC2;
+    text-align: center;
+    margin-right: 4px;
+}
+
+
+
+.td2 {
+    display: table-cell;
+    vertical-align: inherit;
+    float: left;
+    text-align: center;
+}
+
+.bolum3 {
+    width:  39%;
+    background-color: #62B3AA;
+    text-align: center;
+    margin-right: 3px;
+    clear: right;
+}
+
+
+
